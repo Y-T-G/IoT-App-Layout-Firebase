@@ -50,6 +50,7 @@ app.*.map.json
 /ios/
 /android/*
 /android/app/*
+/android/gradle/*
 /web/
 /assets/raw/
 /test/
