@@ -162,6 +162,7 @@ class _LoginState extends State<Login> {
                               ),
                             ),
                             TextFormField(
+                              obscureText: true,
                               controller: _password,
                             ),
                           ],
